@@ -7,18 +7,7 @@ Libraries required for installation
 
 
 
-pip install requests
-
-pip install colorama
-
-pip install pyuser_agent
-
-pip install rainbowtext 
-
-Pip install pyfiglet
-
-
-
+pip install
 
 git clone https://github.com/ShahrokhParazit/SMS-Bomber
 
