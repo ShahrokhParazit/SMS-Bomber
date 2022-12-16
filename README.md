@@ -3,16 +3,31 @@ The best SMS Bomber iranian.....
 
 # Installation
 
-Libraries required for installation
+<b> Libraries required for installation </b>
 
 
+`
+pip3 install -r requirements.txt
 
-pip install
+`
+
+<b> Enter the following commands to run the script  </b>
+
+`
 
 git clone https://github.com/ShahrokhParazit/SMS-Bomber
 
+`
+
+`
+
 cd SMS-Bomber
+
+`
+
+`
 
 python SMS_BomberTP.py
 
+`
 
