@@ -18,6 +18,6 @@ git clone https://github.com/ShahrokhParazit/SMS-Bomber
 cd SMS-Bomber
 ```
 ```
-python SMS_BomberTP.py
+python3 SMS_BomberTP.py
 ```
 
